@@ -1,7 +1,8 @@
 {
   "headers": {
       "/*": {
-        "X-Author": "vyacheslavkirchuk"
+        "X-Author": "vyacheslavkirchuk",
+        "Access-Control-Allow-Origin": "*"
       }
   }    
 }
